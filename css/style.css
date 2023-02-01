@@ -1,0 +1,101 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+  /* global css */
+ *{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+ }
+ body{
+   font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+   background-color: #fff;
+ }
+ div{
+   display: block;
+ }
+ h1{
+   font-size: 30px;
+   color: #363959;
+   padding: 0;
+   margin: 0;
+ }
+ h2{
+  font-size: 48px;
+  color: #363959;
+ }
+ h4{
+  font-size: 24px;
+  font-weight: 700;
+  color: #363959;
+ }
+ /* headcer css */
+ #header{
+   height: 100vh;
+   padding: 85px 0 78px 0px;
+   background-color: #fff;
+ }
+ #header span{
+   background-color: #fff;
+ }
+ .custom-navbar{
+   background-color: rgb(255, 255, 255);
+  
+   
+   
+ }
+ .custom-ul{
+   text-align: center;
+   background-color: #fff;
+ }
+ .custom-li{
+   font-weight: 550;
+   padding: 0px 25px;
+   
+ }
+ .custom-highlight{
+    color: #f7540e;
+ }
+ .custom-btn{
+   background-color: #f7540e;
+   padding: 10px;
+   border: none;
+   outline: none;
+ }
+ .shadow{
+   box-shadow: 0 .5rem 1rem rgba(0,0,0,0.8) !important;
+ }
+ .custom-card{
+   border-radius: 20px;
+   padding: 12px;
+   box-shadow: 0px 10px 30px rgba(0,0,0,0.05);
+   border: none;
+ }
+ .custom-img-width{
+   width: 80px;
+ }
+ .custom-services-card{
+   border-radius: 10px;
+   box-shadow: 0px 10px 30px rgba(0,0,0,0.05);
+   border: none;
+ }
+ .custom-footer{
+   background-color: transparent;
+   border: none;
+ }
+ .custom-bg{
+   background: #f1f1f1;
+   border-radius: 12px;
+ }
+ .custom-highlight-1{
+  color: #f7540e;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+/* footer */
+#footer{
+  padding: 25px 0px;
+}
+.footer h5{
+  padding: 10px 0;
+}
